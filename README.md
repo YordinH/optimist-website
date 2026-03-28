@@ -101,11 +101,6 @@ PUBLIC_CLOUDINARY_CLOUD_NAME=
 SHIPPO_API_KEY=
 ```
 
----
-
-## Custom Builds
-
-Process: Inquiry form → Quote within 24hrs (valid 7 days) → Invoice → 48hr+ stress test → Insured shipping
 
 ---
 
